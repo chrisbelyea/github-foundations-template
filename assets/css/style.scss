@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.vcard {
+  font-family: serif;
+  margin-left: 35%;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: silver;
+  border-width: thin;
+  padding: 3%;
+}
+
+.org {
+  font-size: larger;
+  font-variant: small-caps;
+  margin-top: 5%;
+  margin-bottom: 3%;
+  border-bottom-style: solid;
+  border-bottom-color: black;
+  border-bottom-width: thin;
+}
+
+.adr {
+}
+
+.note {
+  font-style: italic;
+  margin-top: 2%;
+}
