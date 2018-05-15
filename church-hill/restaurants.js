@@ -21,7 +21,8 @@ var data = [
   }
 ];
 
-function loadSuggestion() {
+function loadSuggestion(inputData, sponsoredData) {
+  var data = inputData.concat(sponsoredData);
   var suggestion = data[Math.floor(Math.random() * data.length)];
   console.group("Suggestion");
   console.log(JSON.stringify(suggestion, null, '  '));

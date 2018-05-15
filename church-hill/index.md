@@ -2,9 +2,11 @@
 title: "Church Hill"
 ---
 
-What is there to do in Church Hill?
+All about Church Hill!
 
 - [Restaurants](restaurants)
-- Bars & Breweries
-- Parks
+- [Bars & Breweries](bars)
+- [Businesses](businesses)
 - Events
+- Parks
+- Schools
