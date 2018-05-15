@@ -12,6 +12,12 @@ var data = [
     "neighborhood": "Church Hill",
     "address": "400 N 27th St",
     "note": "They serve food that you should eat"
+  },
+  {
+    "name": "Weenie Beanie",
+    "neighborhood": "Church Hill",
+    "address": "123 Maple St",
+    "note": "It's a landmark"
   }
 ];
 
